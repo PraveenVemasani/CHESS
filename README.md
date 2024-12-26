@@ -1,4 +1,7 @@
-## Overview
+## Project Name
+**CHESS Game**
+
+## Description
 
 This repository contains a chess game application written in Python. The program supports features like making valid moves, detecting check/checkmate/stalemate, and finding the best moves using algorithms such as MinMax and Alpha-Beta pruning. The repository is organized into three main Python scripts and an `images` folder for graphical assets.
 
